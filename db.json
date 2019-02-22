@@ -35,39 +35,4 @@
     "emailAvailable": false,
     "smsAvailable": true
   },
-  {
-    "capability": "Guest Driver Violations",
-    "subtitle": "Know when Speed, Geofence, Curfew, or Miles Limit has been violated.",
-    "pushAvailable": true,
-    "emailAvailable": false,
-    "smsAvailable": true
-  },
-  {
-    "capability": "Vehicle Maintenance",
-    "subtitle": "Vehicle error codes, maintenance reminders, and vehicle health report.",
-    "pushAvailable": true,
-    "emailAvailable": true,
-    "smsAvailable": false
-  },
-  {
-    "capability": "Dealer Appointment Reminder",
-    "subtitle": "",
-    "pushAvailable": true,
-    "emailAvailable": false,
-    "smsAvailable": true
-  },
-  {
-    "capability": "Dealer Appointment Updates",
-    "subtitle": "",
-    "pushAvailable": true,
-    "emailAvailable": true,
-    "smsAvailable": false
-  },
-  {
-    "capability": "Safety & Security",
-    "subtitle": "Recalls, service campaigns, and warranty messages.",
-    "pushAvailable": true,
-    "emailAvailable": true,
-    "smsAvailable": false
-  }
 ]
