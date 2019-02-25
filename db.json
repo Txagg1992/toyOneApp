@@ -4,69 +4,69 @@
     "subtitle": "OneApp profile, password, vehicle nicknames, and data consents, and other account changes.",
     "pushAvailable": true,
     "emailAvailable": true,
-    "smsAvailable": false
+    //"smsAvailable": false
  },
   {
     "capability": "Subscription Updates",
     "subtitle": "Changes to subscription, vehicle list, and remote command user.",
     "pushAvailable": true,
     "emailAvailable": true,
-    "smsAvailable": false
+    //"smsAvailable": false
   },
   {
     "capability": "Billing Alerts",
     "subtitle": "Payment activity and invoices.",
     "pushAvailable": false,
     "emailAvailable": true,
-    "smsAvailable": false
+    //"smsAvailable": false
   },
   {
     "capability": "Payment Reminders",
     "subtitle": "Be reminded when a payment is due.",
     "pushAvailable": true,
     "emailAvailable": true,
-    "smsAvailable": false
+   // "smsAvailable": false
   },
   {
     "capability": "Vehicle Status",
     "subtitle": "Get alerts when vehicle has been left unsecured (window, door, or trunk is not locked)",
     "pushAvailable": true,
     "emailAvailable": false,
-    "smsAvailable": true
+    //"smsAvailable": true
   },
   {
     "capability": "Guest Driver Violations",
     "subtitle": "Know when Speed, Geofence, Curfew, or Miles Limit has been violated.",
     "pushAvailable": true,
     "emailAvailable": false,
-    "smsAvailable": true
+    //"smsAvailable": true
   },
   {
     "capability": "Vehicle Maintenance",
     "subtitle": "Vehicle error codes, maintenance reminders, and vehicle health report.",
     "pushAvailable": true,
     "emailAvailable": true,
-    "smsAvailable": false
+    //"smsAvailable": false
   },
   {
     "capability": "Dealer Appointment Reminder",
     "subtitle": "",
     "pushAvailable": true,
     "emailAvailable": false,
-    "smsAvailable": true
+   // "smsAvailable": true
   },
   {
     "capability": "Dealer Appointment Updates",
     "subtitle": "",
     "pushAvailable": true,
     "emailAvailable": true,
-    "smsAvailable": false
+    //"smsAvailable": false
   },
   {
     "capability": "Safety & Security",
     "subtitle": "Recalls, service campaigns, and warranty messages.",
     "pushAvailable": true,
     "emailAvailable": true,
-    "smsAvailable": false
+    //"smsAvailable": false
   }
 ]
